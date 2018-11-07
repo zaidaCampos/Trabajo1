@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0
+}
+
+/*pagina 1*/
+
+.page1{
+    background-color: gray;
+    margin: 60px 0px 0px 80px;
+    height: 1390px;
+    width: 970px;
+    padding: 10px 0px 30px 0px;
+}
+.a{
+    background-color: green;
+    margin: 10px 30px 20px 40px;
+    height: 600px;
+    width: 900px;
+}
+.m{
+    background-color: red;
+    margin: 0px 10px 30px 60px;
+    height: 400px;
+    width: 900px;
+}
+.b{
+    background-color: blue;
+    margin: 0px 40px 30px 30px;
+    height: 300px;
+    width: 900px;
+}
+
+
+/*pagina 2*/
+
+.page2{
+    width: 895px;
+    height: 950px;
+    margin: 60px 0 0 80px;
+    background-color: green;
+    padding: 30px 0 25px 0;
+}
+.page2a{
+    width: 835px;
+    height: 260px;
+    margin: 30px 20px 15px 40px;
+    background-color: darkmagenta;
+    padding-top: 10px;
+}
+.page2aa{
+    width: 800px;
+    height: 100px;
+    margin: 30px 15px 20px 20px;
+    background-color: brown;
+}
+.page2aaa{
+    width: 800px;
+    height: 100px;
+    margin: 20px 15px 10px 20px;
+    background-color: chartreuse;
+}
+.page2ab{
+    width: 835px;
+    height: 350px;
+    margin: 15px 30px 20px 30px;
+    background-color: gold;
+    padding-top: 10px;
+}
+.page2ac{
+    width: 800px;
+    height: 300px;
+    margin: 30px 25px 20px 10px;
+    background-color: yellow;
+}
+.page2c{
+    width: 835px;
+    height: 250px;
+    margin: 20px 15px 25px 25px;
+    background-color: aqua;
+}
+
+/*pagina 3*/
+.page3{
+    width: 980px;
+    height: 830px;
+    margin: 40px 0px 0px 30px;
+    background-color: forestgreen;
+    padding: 10px 0px 10px 0px;
+}
+.page3g{
+    width: 900px;
+    height: 300px;
+    margin: 10px 40px 30px 40px;
+    background-color: blue;
+
+}
+.page3h{
+    width: 900px;
+    height: 240px;
+    margin: 30px 50px 40px 30px;
+    background-color: hotpink;
+    padding-top: 10px;
+}
+.page3l{
+    width: 850px;
+    height: 100px;
+    margin: 10px 15px 20px 15px;
+    background-color: firebrick
+}
+.page3m{
+    width: 850px;
+    height: 100px;
+    margin: 20px 15px 10px 15px;
+    background-color: darkcyan;
+}
+.page3af{
+    width: 900px;
+    height: 200px;
+    margin: 40px 60px 10px 20px;
+    padding-top: 10px;
+    background-color: blue;
+}
+.page3i{
+    width: 860px;
+    height: 140px;
+    margin: 30px 10px 30px 30px;
+    background-color: hotpink;
+    padding-top: 10px;
+}
+.page3q{
+    width: 820px;
+    height: 100px;
+    margin: 20px 20px 20px 20px;
+    background-color: salmon;
+    padding-top: 10px;
+}    
+.page3p{
+    width: 780px;
+    height: 80px;
+    margin: 10px 20px 10px 20px;
+    background-color: greenyellow;
+}
+
+
+/*pagina 4*/
+.page4{
+    width:  1000px;
+    height: 1200px;
+    margin: 40px 0px 0px 40px;
+    background-color: black;
+    padding-top: 10px;
+}
+.page4w{
+    width: 960px;
+    height: 1160px;
+    margin: 20px 20px 20px 20px;
+    background-color: gainsboro;
+    padding-top: 10px;
+
+}
+.page4ww{
+    width: 900px;
+    height: 1100px;
+    margin: 30px 30px 30px 30px;
+    background-color: firebrick;
+    padding-top: 10px;
+
+}
+.page4www{
+    width: 880px;
+    height: 520px;
+    margin: 20px 10px 20px 10px;
+    background-color: greenyellow;
+    padding-top: 1px;
+}
+.page4a{
+    width: 840px;
+    height: 500px;
+    margin: 10px 20px 10px 20px;
+    background-color:  goldenrod;
+    padding-top: 1px;
+}
+.page4aa{
+    width: 780px;
+    height: 460px;
+    margin: 20px 30px 20px 30px;
+    background-color: fuchsia;
+}
+.page4q{
+    width: 880px;
+    height: 520px;
+    margin: 20px 10px 20px 10px;
+    background-color: greenyellow;
+    padding-top: 1px;
+}
+.page4qq{
+    width: 840px;
+    height: 500px;
+    margin: 10px 20px 10px 20px;
+    background-color:  goldenrod;
+    padding-top: 1px;
+}
+.page4qqq{
+    width: 780px;
+    height: 460px;
+    margin: 20px 30px 20px 30px;
+    background-color: fuchsia;
+}
+/*pagina 5*/
+.page5{
+    width: 900px;
+    height: 1480px;
+    margin: 70px 0px 0px 60px;
+   background-color: black;
+   padding: 20px 0px 60px 0px;
+}
+.page5ñ{
+    width: 800px;
+    height: 1200px;
+    margin: 20px 60px 40px 40px;
+    background-color: palegreen;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+.page5l{
+    width: 760px;
+    height: 300px;
+    margin: 20px 30px 30px 30px;
+    background-color: darkcyan;
+}
+.page5ll{
+ width: 760px;
+ height: 300px;
+ margin: 30px 20px 15px 40px;
+background-color: ghostwhite;
+}
+.page5lll{
+    width: 760px;
+    height: 300px;
+    margin: 15px 40px 15px 20px;
+    background-color: grey;
+}
+.page5llll{
+    width: 760px;
+    height: 200px;
+    margin: 15px 45px 20px 15px;
+    background-color: darkcyan;
+}
+.page5x{
+    width: 700px;
+    height: 200px;
+    margin: 40px 100px 60px 100px;
+    background-color: forestgreen;
+}
